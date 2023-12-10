@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1044177307577",
+    "project_id": "essectapp-763b7",
+    "storage_bucket": "essectapp-763b7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1044177307577:android:2ef4296ccdef32797b9868",
+        "android_client_info": {
+          "package_name": "com.app.essect"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB8n6BaF1cj3kFdeXIEtNKdcaH7k70HWs4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1044177307577:android:691d06e1a1087b5c7b9868",
+        "android_client_info": {
+          "package_name": "com.example.essecproject"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB8n6BaF1cj3kFdeXIEtNKdcaH7k70HWs4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
